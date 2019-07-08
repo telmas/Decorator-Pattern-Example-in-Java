@@ -1,6 +1,6 @@
 public interface Car {
 
-    public String getDescription();
+    String getDescription();
 
-    public double getPrice();
+    double getPrice();
 }
